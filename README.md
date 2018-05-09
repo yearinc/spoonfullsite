@@ -3,32 +3,48 @@
 here you will be able to access some of spoon filling recipes that are easy yet tasty
 it is hard to specify the cuisine or originality of the recipes as all the recipes have been improved over the years after being inspired by the many culinary experiences that ive accumulated over the years. it is also crucial to note that these recipes are a guide book, not instructions that must be followed exactly. 
 
+
 as an example of how my recipes are presented, take a look at the recipe below: 
 
-```markdown
 
-**CHOCOLATE RASPBERRY DESSERT TACOS** 
-- makes 10 tacos
+**CHOCOLATE RASPBERRY DESSERT TACOS** - makes 10 tacos
+
 **Raspberry preserves** 
+
+
 1 cup (125g) frozen or fresh raspberries
+
 6 tbs (80g) caster fine sugar
+
 1 tbs (14g) cornstarch 
 
 **Easy chocolate ganache**
+
 1/2 cup (88g) semisweet dark chocolate chips
+
 2 tbs (30ml) cooking oil (flavourless)
 
 **Soft taco shell**
+
 1 tbs (14g) caster fine sugar
+
 1/4 tsp (2ml) vanilla extract
+
 1/3 cup (75ml) almond milk
+
 1 tbs (15ml) cooking oil (flavourless)
+
 1/4 cup (30g) all-purpose flour
+
 1/4 tsp (2g) baking powder
+
 1/8 tsp (1g) table salt
+
 1/2 tsp (4g) cornstarch 
 
+
 _*powdered sugar optional for finishing touch_
+
 
 1. combine all  the preserve ingredients in a medium size pan over medium heat, stirring every now and then until the preserves thicken to the consistency of jam. allow to cool 
 
