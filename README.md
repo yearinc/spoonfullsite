@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+**Welcome to Spoonfull**
 
-You can use the [editor on GitHub](https://github.com/yearinc/spoonfullsite/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+here you will be able to access some of spoon filling recipes that are easy yet tasty
+it is hard to specify the cuisine or originality of the recipes as all the recipes have been improved over the years after being inspired by the many culinary experiences that ive accumulated over the years. it is also crucial to note that these recipes are a guide book, not instructions that must be followed exactly. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+as an example of how my recipes are presented, take a look at the recipe below: 
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+**CHOCOLATE RASPBERRY DESSERT TACOS** 
+- makes 10 tacos
+**Raspberry preserves** 
+1 cup (125g) frozen or fresh raspberries
+6 tbs (80g) caster fine sugar
+1 tbs (14g) cornstarch 
 
-- Bulleted
-- List
+**Easy chocolate ganache**
+1/2 cup (88g) semisweet dark chocolate chips
+2 tbs (30ml) cooking oil (flavourless)
 
-1. Numbered
-2. List
+**Soft taco shell**
+1 tbs (14g) caster fine sugar
+1/4 tsp (2ml) vanilla extract
+1/3 cup (75ml) almond milk
+1 tbs (15ml) cooking oil (flavourless)
+1/4 cup (30g) all-purpose flour
+1/4 tsp (2g) baking powder
+1/8 tsp (1g) table salt
+1/2 tsp (4g) cornstarch 
 
-**Bold** and _Italic_ and `Code` text
+_*powdered sugar optional for finishing touch_
 
-[Link](url) and ![Image](src)
-```
+1. combine all  the preserve ingredients in a medium size pan over medium heat, stirring every now and then until the preserves thicken to the consistency of jam. allow to cool 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+2. in a mircowave-safe bowl, heat the chocolate chips and oil on high for a minute, or until melted. mix well to combine the ingredients without any lumps 
 
-### Jekyll Themes
+3. preheat the pan on high. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yearinc/spoonfullsite/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+4. whisk the sugatr, vanilla extract, almond milk and oil together in a big bowl (the dry ingredients will end up here). combine the flour, baking powder, salt and cornstarch in a separate bowl. whisk the dry ingredients into the wet ingredient one half at a time. if the batter seems too thick, add more almond milk for a light (almost light cream) texture.
 
-### Support or Contact
+5. when the pan is hot enough, pour the batter tablespoon at a time. smoothen the batter out by using the back of the spoon. let the batter cook for 3 minutes on the first side, or till you see bubbples formed around the edges. flip the shell and allow to cook for another minute or two, then transfer to a plate. 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+6. on each shell, stuff with raspberry preserves, drizzle with the chocolate ganache, then finish it off with the powdered sugar (optional).
+
