@@ -12,35 +12,35 @@ as an example of how my recipes are presented, take a look at the recipe below:
 **Raspberry preserves** 
 
 
-1 cup (125g) frozen or fresh raspberries
+- 1 cup (125g) frozen or fresh raspberries
 
-6 tbs (80g) caster fine sugar
+- 6 tbs (80g) caster fine sugar
 
-1 tbs (14g) cornstarch 
+- 1 tbs (14g) cornstarch 
 
 **Easy chocolate ganache**
 
-1/2 cup (88g) semisweet dark chocolate chips
+- 1/2 cup (88g) semisweet dark chocolate chips
 
-2 tbs (30ml) cooking oil (flavourless)
+- 2 tbs (30ml) cooking oil (flavourless)
 
 **Soft taco shell**
 
-1 tbs (14g) caster fine sugar
+- 1 tbs (14g) caster fine sugar
 
-1/4 tsp (2ml) vanilla extract
+- 1/4 tsp (2ml) vanilla extract
 
-1/3 cup (75ml) almond milk
+- 1/3 cup (75ml) almond milk
 
-1 tbs (15ml) cooking oil (flavourless)
+- 1 tbs (15ml) cooking oil (flavourless)
 
-1/4 cup (30g) all-purpose flour
+- 1/4 cup (30g) all-purpose flour
 
-1/4 tsp (2g) baking powder
+- 1/4 tsp (2g) baking powder
 
-1/8 tsp (1g) table salt
+- 1/8 tsp (1g) table salt
 
-1/2 tsp (4g) cornstarch 
+- 1/2 tsp (4g) cornstarch 
 
 
 _*powdered sugar optional for finishing touch_
