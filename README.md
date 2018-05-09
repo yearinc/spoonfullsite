@@ -1,23 +1,22 @@
-**Welcome to Spoonfull**
+Welcome to Spoonfull
 
 here you will be able to access some of spoon filling recipes that are easy yet tasty
 it is hard to specify the cuisine or originality of the recipes as all the recipes have been improved over the years after being inspired by the many culinary experiences that ive accumulated over the years. it is also crucial to note that these recipes are a guide book, not instructions that must be followed exactly. 
 
 
-as an example of how my recipes are presented, take a look at the recipe below: 
+```markdown
+##CHOCOLATE RASPBERRY DESSERT TACOS - makes 10 tacos
+![Tacos](https://imagesvc.timeincapp.com/v3/mm/image?url=http%3A%2F%2Fcdn-image.myrecipes.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fmedium_2x%2Fpublic%2Fnutellaredberrydesserttacos.jpg%3Fitok%3DN8WpVEw7&w=700&q=85)
 
-
-**CHOCOLATE RASPBERRY DESSERT TACOS** - makes 10 tacos
-
-**Raspberry preserves** 
-
-
+**Raspberry preserves**
+  
 - 1 cup (125g) frozen or fresh raspberries
 
 - 6 tbs (80g) caster fine sugar
 
 - 1 tbs (14g) cornstarch 
 
+>instead of raspberries, try using the [**seasonal fruits**, which you can find using this link](https://www.berries.com/blog/what-fruits-are-in-season)
 **Easy chocolate ganache**
 
 - 1/2 cup (88g) semisweet dark chocolate chips
@@ -57,4 +56,7 @@ _*powdered sugar optional for finishing touch_
 5. when the pan is hot enough, pour the batter tablespoon at a time. smoothen the batter out by using the back of the spoon. let the batter cook for 3 minutes on the first side, or till you see bubbples formed around the edges. flip the shell and allow to cook for another minute or two, then transfer to a plate. 
 
 6. on each shell, stuff with raspberry preserves, drizzle with the chocolate ganache, then finish it off with the powdered sugar (optional).
+
+
+
 
