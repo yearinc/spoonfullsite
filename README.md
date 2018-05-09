@@ -108,3 +108,53 @@ _*3 chilis optional_
 >
 >6. Stack the pork and vegetables inside the bao bun, and drizzle the liquid from the pork as the sauce.
 
+##  Roll up in my Cucumber for some Sushi - makes 2 servings
+
+![rolled up sushi](https://gm1.ggpht.com/_rPGbXjyJxqQ3LZlsICrXB6hRsu20yDgqpU-q8LQFVETgBqCG6h3NNjpnLDBnjHF_IaaHRV9vbXSZEv3fs1uMx9AX6zR9ci9j8ABZGgFpkQK0uXEJ6esDWHdSVL8eCG0VRWdevklC6Ifd7e2uNqPZTLLO7S737YJVdIt9THZc1yDf5Cf5sYgAgs61B4VYlnCvPW5OzSsv3xcQvQnO7xEf7W7678Q4e-5ov94S20N75b4_-BgbUqEXfKaR4lqIapfTg3TupiTEd-z3hpT3Ew8a_0Mwco-5fEs4BSl3fReotzIpPNEJWLRotS2mdq37nIrfnNbrMZkttsjG8Ihto4la_CegJv-lTgwPoTQ82ciidMrwef91tLywpyGUd8PsRt5jniAj2TVIdtUeOt9qX1djNREvoKWmwqnUqZWMWeZK2VFDV8JMy96Dt8ow-48jtl6c7mUDEaxZzZgiQ_aMQMcmAL3WsklzK1OQLaRDAINB4hUbuKp02ND2-zo-QayIfMTka99fnfenofTYigTpbtzOQ0n8QXxEc-paE7P8WX1lSaks52UwxTCExZy75Df2I5hLp66PpL7HIqwiZJU-PfKsXpS-tvqIAJFxfxrY_nEMUMvt98wROsq2bRR6yeEShA2DLVsbeCWVQ6pvxX-Ln6rg6ZXakPfqJ5oCsNsTOY5Fa9SfiQYiflBZ7BagpE=s0-l75-ft-l75-ft)
+
+>#### everyone knows that one friend whos is the most picky eater of all time. Well I certainly do, and they hate seaweed in any form. this wouldn't be an issue except that **IT IS AN ISSUE** (although don't pick on these people since it apparently [common to fear seaweed](https://www.google.at/search?q=Fykiaphobia&oq=Fykiaphobia&aqs=chrome..69i57j0i66j5i66l4.523j0j4&sourceid=chrome&ie=UTF-8)
+
+>##### now instead of giving up on these people, ive come up with a seaweed free sushi-maki experience all sushi lovers will enjoy, although **warning**, just like cats people too can fear cucumbers as well 
+
+**Ingredients** 
+
+- 1 cucumber (slightly long if possible)
+
+- 200g of sushi-grade salmon
+
+- 200g of sushi-grade tuna
+
+- 1 cup (180g) uncooked sushi rice (see packaging for sushi rice seasoning, as it differs per package)
+
+>*sushi rice tends to need rice vinegar, sugar and in the ratio for 3 cups of sushi rice: 1/2 cup rice vinegar, 2 tbs sugar and 2 tsp of salt. for more information check this [**Amazing link**](https://makemysushi.com/Recipes/how-to-make-sushi-rice) out.
+
+**marinade**
+
+- 1/2 lemon (the juice) x2 
+
+- 2 tbs (10ml) sesame seed oil (the asian kind) x2
+
+- 1 tbs (5ml) mirin (sweet rice vinegar) x2
+
+- 1 tbs (5ml) soy sauce x2
+
+- 100g of chives x2
+
+- 2 1/2 tbs of sriracha sauce or gochujang x2
+
+
+
+>1. rince the sushi rice till the water is transparent, then cook the rice according to the packaging. let the rice cool down to cool temperature
+>
+>2. cut the salmon and tuna into small dices, then place them in separate bowls. 
+>
+>3. into each bowl, put the marinade ingredients (hence the x2) and mix well. 
+>
+>4. using a vegetable peeler, peel the cucumber from one side to the end, forming long strips of cucumber 
+>
+>5. season the sushi rice with the appropriate seasoning, then form tiny small balls out of them
+>
+>6. wrap each rice ball with a strip of cucumber, then on top place a teaspoon of the salmon/tuna. 
+
+
+
